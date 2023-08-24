@@ -22,8 +22,6 @@ const reducer = (count , action) => {
 
     }
 
-
-
 }
 
 // useReducer 사용
